@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Capabilities property" Url="html/P_UsbEject_Library_Device_Capabilities.htm" />
+  <HelpKINode Title="Class property" Url="html/P_UsbEject_Library_Device_Class.htm" />
+  <HelpKINode Title="ClassGuid property">
+    <HelpKINode Title="Device.ClassGuid Property " Url="html/P_UsbEject_Library_Device_ClassGuid.htm" />
+    <HelpKINode Title="DeviceClass.ClassGuid Property " Url="html/P_UsbEject_Library_DeviceClass_ClassGuid.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CompareTo method">
+    <HelpKINode Title="Device.CompareTo Method " Url="html/M_UsbEject_Library_Device_CompareTo.htm" />
+    <HelpKINode Title="Volume.CompareTo Method " Url="html/M_UsbEject_Library_Volume_CompareTo.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConsoleLogger class">
+    <HelpKINode Title="ConsoleLogger Class" Url="html/T_UsbEject_Library_Logging_ConsoleLogger.htm" />
+    <HelpKINode Title="about ConsoleLogger class" Url="html/T_UsbEject_Library_Logging_ConsoleLogger.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_UsbEject_Library_Logging_ConsoleLogger.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_UsbEject_Library_Logging_ConsoleLogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConsoleLogger.Instance field" Url="html/F_UsbEject_Library_Logging_ConsoleLogger_Instance.htm" />
+  <HelpKINode Title="DebugLogger class">
+    <HelpKINode Title="DebugLogger Class" Url="html/T_UsbEject_Library_Logging_DebugLogger.htm" />
+    <HelpKINode Title="about DebugLogger class" Url="html/T_UsbEject_Library_Logging_DebugLogger.htm" />
+    <HelpKINode Title="constructor" Url="html/M_UsbEject_Library_Logging_DebugLogger__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_UsbEject_Library_Logging_DebugLogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DebugLogger.DebugLogger constructor" Url="html/M_UsbEject_Library_Logging_DebugLogger__ctor.htm" />
+  <HelpKINode Title="DebugLogger.Write method" Url="html/Overload_UsbEject_Library_Logging_DebugLogger_Write.htm" />
+  <HelpKINode Title="Description property" Url="html/P_UsbEject_Library_Device_Description.htm" />
+  <HelpKINode Title="Device class">
+    <HelpKINode Title="Device Class" Url="html/T_UsbEject_Library_Device.htm" />
+    <HelpKINode Title="about Device class" Url="html/T_UsbEject_Library_Device.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_UsbEject_Library_Device.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_UsbEject_Library_Device.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Device.Capabilities property" Url="html/P_UsbEject_Library_Device_Capabilities.htm" />
+  <HelpKINode Title="Device.Class property" Url="html/P_UsbEject_Library_Device_Class.htm" />
+  <HelpKINode Title="Device.ClassGuid property" Url="html/P_UsbEject_Library_Device_ClassGuid.htm" />
+  <HelpKINode Title="Device.CompareTo method" Url="html/M_UsbEject_Library_Device_CompareTo.htm" />
+  <HelpKINode Title="Device.Description property" Url="html/P_UsbEject_Library_Device_Description.htm" />
+  <HelpKINode Title="Device.DeviceClass property" Url="html/P_UsbEject_Library_Device_DeviceClass.htm" />
+  <HelpKINode Title="Device.DiskNumber property" Url="html/P_UsbEject_Library_Device_DiskNumber.htm" />
+  <HelpKINode Title="Device.Eject method" Url="html/M_UsbEject_Library_Device_Eject.htm" />
+  <HelpKINode Title="Device.FriendlyName property" Url="html/P_UsbEject_Library_Device_FriendlyName.htm" />
+  <HelpKINode Title="Device.Index property" Url="html/P_UsbEject_Library_Device_Index.htm" />
+  <HelpKINode Title="Device.InstanceHandle property" Url="html/P_UsbEject_Library_Device_InstanceHandle.htm" />
+  <HelpKINode Title="Device.IsUsb property" Url="html/P_UsbEject_Library_Device_IsUsb.htm" />
+  <HelpKINode Title="Device.Parent property" Url="html/P_UsbEject_Library_Device_Parent.htm" />
+  <HelpKINode Title="Device.Path property" Url="html/P_UsbEject_Library_Device_Path.htm" />
+  <HelpKINode Title="Device.RemovableDevices property" Url="html/P_UsbEject_Library_Device_RemovableDevices.htm" />
+  <HelpKINode Title="DeviceCapabilities enumeration" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
+  <HelpKINode Title="DeviceClass class">
+    <HelpKINode Title="DeviceClass Class" Url="html/T_UsbEject_Library_DeviceClass.htm" />
+    <HelpKINode Title="about DeviceClass class" Url="html/T_UsbEject_Library_DeviceClass.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_UsbEject_Library_DeviceClass__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_UsbEject_Library_DeviceClass.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_UsbEject_Library_DeviceClass.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeviceClass property" Url="html/P_UsbEject_Library_Device_DeviceClass.htm" />
+  <HelpKINode Title="DeviceClass.ClassGuid property" Url="html/P_UsbEject_Library_DeviceClass_ClassGuid.htm" />
+  <HelpKINode Title="DeviceClass.DeviceClass constructor" Url="html/Overload_UsbEject_Library_DeviceClass__ctor.htm" />
+  <HelpKINode Title="DeviceClass.Devices property" Url="html/P_UsbEject_Library_DeviceClass_Devices.htm" />
+  <HelpKINode Title="DeviceClass.Dispose method" Url="html/Overload_UsbEject_Library_DeviceClass_Dispose.htm" />
+  <HelpKINode Title="DeviceClass.Finalize method" Url="html/M_UsbEject_Library_DeviceClass_Finalize.htm" />
+  <HelpKINode Title="Devices property" Url="html/P_UsbEject_Library_DeviceClass_Devices.htm" />
+  <HelpKINode Title="DiskDeviceClass class">
+    <HelpKINode Title="DiskDeviceClass Class" Url="html/T_UsbEject_Library_DiskDeviceClass.htm" />
+    <HelpKINode Title="about DiskDeviceClass class" Url="html/T_UsbEject_Library_DiskDeviceClass.htm" />
+    <HelpKINode Title="constructor" Url="html/M_UsbEject_Library_DiskDeviceClass__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_UsbEject_Library_DiskDeviceClass.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_UsbEject_Library_DiskDeviceClass.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DiskDeviceClass.DiskDeviceClass constructor" Url="html/M_UsbEject_Library_DiskDeviceClass__ctor.htm" />
+  <HelpKINode Title="DiskNumber property" Url="html/P_UsbEject_Library_Device_DiskNumber.htm" />
+  <HelpKINode Title="DiskNumbers property" Url="html/P_UsbEject_Library_Volume_DiskNumbers.htm" />
+  <HelpKINode Title="Disks property" Url="html/P_UsbEject_Library_Volume_Disks.htm" />
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="DeviceClass.Dispose Method " Url="html/Overload_UsbEject_Library_DeviceClass_Dispose.htm" />
+    <HelpKINode Title="TextLogger.Dispose Method " Url="html/M_UsbEject_Library_Logging_TextLogger_Dispose.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DockDevice enumeration member" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
+  <HelpKINode Title="Eject method" Url="html/M_UsbEject_Library_Device_Eject.htm" />
+  <HelpKINode Title="EjectSupported enumeration member" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
+  <HelpKINode Title="Finalize method" Url="html/M_UsbEject_Library_DeviceClass_Finalize.htm" />
+  <HelpKINode Title="FriendlyName property" Url="html/P_UsbEject_Library_Device_FriendlyName.htm" />
+  <HelpKINode Title="HardwareDisabled enumeration member" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
+  <HelpKINode Title="ILogger interface">
+    <HelpKINode Title="ILogger Interface" Url="html/T_UsbEject_Library_ILogger.htm" />
+    <HelpKINode Title="about ILogger interface" Url="html/T_UsbEject_Library_ILogger.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_UsbEject_Library_ILogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogger.Write method" Url="html/Overload_UsbEject_Library_ILogger_Write.htm" />
+  <HelpKINode Title="Index property" Url="html/P_UsbEject_Library_Device_Index.htm" />
+  <HelpKINode Title="Instance field">
+    <HelpKINode Title="ConsoleLogger.Instance Field" Url="html/F_UsbEject_Library_Logging_ConsoleLogger_Instance.htm" />
+    <HelpKINode Title="NullLogger.Instance Field" Url="html/F_UsbEject_Library_Logging_NullLogger_Instance.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InstanceHandle property" Url="html/P_UsbEject_Library_Device_InstanceHandle.htm" />
+  <HelpKINode Title="IsUsb property" Url="html/P_UsbEject_Library_Device_IsUsb.htm" />
+  <HelpKINode Title="LockSupported enumeration member" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
+  <HelpKINode Title="LogicalDrive property" Url="html/P_UsbEject_Library_Volume_LogicalDrive.htm" />
+  <HelpKINode Title="NonDynamic enumeration member" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
+  <HelpKINode Title="NullLogger class">
+    <HelpKINode Title="NullLogger Class" Url="html/T_UsbEject_Library_Logging_NullLogger.htm" />
+    <HelpKINode Title="about NullLogger class" Url="html/T_UsbEject_Library_Logging_NullLogger.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_UsbEject_Library_Logging_NullLogger.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_UsbEject_Library_Logging_NullLogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NullLogger.Instance field" Url="html/F_UsbEject_Library_Logging_NullLogger_Instance.htm" />
+  <HelpKINode Title="Parent property" Url="html/P_UsbEject_Library_Device_Parent.htm" />
+  <HelpKINode Title="Path property" Url="html/P_UsbEject_Library_Device_Path.htm" />
+  <HelpKINode Title="RawDeviceOk enumeration member" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
+  <HelpKINode Title="Removable enumeration member" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
+  <HelpKINode Title="RemovableDevices property" Url="html/P_UsbEject_Library_Device_RemovableDevices.htm" />
+  <HelpKINode Title="SilentInstall enumeration member" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
+  <HelpKINode Title="SurpriseRemovalOk enumeration member" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
+  <HelpKINode Title="TextLogger class">
+    <HelpKINode Title="TextLogger Class" Url="html/T_UsbEject_Library_Logging_TextLogger.htm" />
+    <HelpKINode Title="about TextLogger class" Url="html/T_UsbEject_Library_Logging_TextLogger.htm" />
+    <HelpKINode Title="constructor" Url="html/M_UsbEject_Library_Logging_TextLogger__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_UsbEject_Library_Logging_TextLogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TextLogger.Dispose method" Url="html/M_UsbEject_Library_Logging_TextLogger_Dispose.htm" />
+  <HelpKINode Title="TextLogger.TextLogger constructor" Url="html/M_UsbEject_Library_Logging_TextLogger__ctor.htm" />
+  <HelpKINode Title="TextLogger.Write method" Url="html/Overload_UsbEject_Library_Logging_TextLogger_Write.htm" />
+  <HelpKINode Title="TraceLogger class">
+    <HelpKINode Title="TraceLogger Class" Url="html/T_UsbEject_Library_Logging_TraceLogger.htm" />
+    <HelpKINode Title="about TraceLogger class" Url="html/T_UsbEject_Library_Logging_TraceLogger.htm" />
+    <HelpKINode Title="constructor" Url="html/M_UsbEject_Library_Logging_TraceLogger__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_UsbEject_Library_Logging_TraceLogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TraceLogger.TraceLogger constructor" Url="html/M_UsbEject_Library_Logging_TraceLogger__ctor.htm" />
+  <HelpKINode Title="TraceLogger.Write method" Url="html/Overload_UsbEject_Library_Logging_TraceLogger_Write.htm" />
+  <HelpKINode Title="UniqueId enumeration member" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
+  <HelpKINode Title="Unknown enumeration member" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
+  <HelpKINode Title="UsbEject.Library namespace" Url="html/N_UsbEject_Library.htm" />
+  <HelpKINode Title="UsbEject.Library.Device class" Url="html/T_UsbEject_Library_Device.htm" />
+  <HelpKINode Title="UsbEject.Library.DeviceCapabilities enumeration" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
+  <HelpKINode Title="UsbEject.Library.DeviceClass class" Url="html/T_UsbEject_Library_DeviceClass.htm" />
+  <HelpKINode Title="UsbEject.Library.DiskDeviceClass class" Url="html/T_UsbEject_Library_DiskDeviceClass.htm" />
+  <HelpKINode Title="UsbEject.Library.ILogger interface" Url="html/T_UsbEject_Library_ILogger.htm" />
+  <HelpKINode Title="UsbEject.Library.Logging namespace" Url="html/N_UsbEject_Library_Logging.htm" />
+  <HelpKINode Title="UsbEject.Library.Logging.ConsoleLogger class" Url="html/T_UsbEject_Library_Logging_ConsoleLogger.htm" />
+  <HelpKINode Title="UsbEject.Library.Logging.DebugLogger class" Url="html/T_UsbEject_Library_Logging_DebugLogger.htm" />
+  <HelpKINode Title="UsbEject.Library.Logging.NullLogger class" Url="html/T_UsbEject_Library_Logging_NullLogger.htm" />
+  <HelpKINode Title="UsbEject.Library.Logging.TextLogger class" Url="html/T_UsbEject_Library_Logging_TextLogger.htm" />
+  <HelpKINode Title="UsbEject.Library.Logging.TraceLogger class" Url="html/T_UsbEject_Library_Logging_TraceLogger.htm" />
+  <HelpKINode Title="UsbEject.Library.Volume class" Url="html/T_UsbEject_Library_Volume.htm" />
+  <HelpKINode Title="UsbEject.Library.VolumeDeviceClass class" Url="html/T_UsbEject_Library_VolumeDeviceClass.htm" />
+  <HelpKINode Title="Volume class">
+    <HelpKINode Title="Volume Class" Url="html/T_UsbEject_Library_Volume.htm" />
+    <HelpKINode Title="about Volume class" Url="html/T_UsbEject_Library_Volume.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_UsbEject_Library_Volume.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_UsbEject_Library_Volume.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Volume.CompareTo method" Url="html/M_UsbEject_Library_Volume_CompareTo.htm" />
+  <HelpKINode Title="Volume.DiskNumbers property" Url="html/P_UsbEject_Library_Volume_DiskNumbers.htm" />
+  <HelpKINode Title="Volume.Disks property" Url="html/P_UsbEject_Library_Volume_Disks.htm" />
+  <HelpKINode Title="Volume.LogicalDrive property" Url="html/P_UsbEject_Library_Volume_LogicalDrive.htm" />
+  <HelpKINode Title="Volume.VolumeName property" Url="html/P_UsbEject_Library_Volume_VolumeName.htm" />
+  <HelpKINode Title="VolumeDeviceClass class">
+    <HelpKINode Title="VolumeDeviceClass Class" Url="html/T_UsbEject_Library_VolumeDeviceClass.htm" />
+    <HelpKINode Title="about VolumeDeviceClass class" Url="html/T_UsbEject_Library_VolumeDeviceClass.htm" />
+    <HelpKINode Title="constructor" Url="html/M_UsbEject_Library_VolumeDeviceClass__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_UsbEject_Library_VolumeDeviceClass.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_UsbEject_Library_VolumeDeviceClass.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VolumeDeviceClass.VolumeDeviceClass constructor" Url="html/M_UsbEject_Library_VolumeDeviceClass__ctor.htm" />
+  <HelpKINode Title="VolumeDeviceClass.Volumes property" Url="html/P_UsbEject_Library_VolumeDeviceClass_Volumes.htm" />
+  <HelpKINode Title="VolumeName property" Url="html/P_UsbEject_Library_Volume_VolumeName.htm" />
+  <HelpKINode Title="Volumes property" Url="html/P_UsbEject_Library_VolumeDeviceClass_Volumes.htm" />
+  <HelpKINode Title="Welcome" Url="html/e37d3f20-c770-44bf-ba4a-08ee59b06bff.htm" />
+  <HelpKINode Title="Write method">
+    <HelpKINode Title="DebugLogger.Write Method " Url="html/Overload_UsbEject_Library_Logging_DebugLogger_Write.htm" />
+    <HelpKINode Title="ILogger.Write Method " Url="html/Overload_UsbEject_Library_ILogger_Write.htm" />
+    <HelpKINode Title="TextLogger.Write Method " Url="html/Overload_UsbEject_Library_Logging_TextLogger_Write.htm" />
+    <HelpKINode Title="TraceLogger.Write Method " Url="html/Overload_UsbEject_Library_Logging_TraceLogger_Write.htm" />
+  </HelpKINode>
+</HelpKI>
