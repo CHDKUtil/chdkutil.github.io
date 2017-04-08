@@ -61,6 +61,7 @@
   <HelpKINode Title="DeviceClass.Devices property" Url="html/P_UsbEject_Library_DeviceClass_Devices.htm" />
   <HelpKINode Title="DeviceClass.Dispose method" Url="html/Overload_UsbEject_Library_DeviceClass_Dispose.htm" />
   <HelpKINode Title="DeviceClass.Finalize method" Url="html/M_UsbEject_Library_DeviceClass_Finalize.htm" />
+  <HelpKINode Title="DeviceClass.GetEnumerator method" Url="html/M_UsbEject_Library_DeviceClass_GetEnumerator.htm" />
   <HelpKINode Title="Devices property" Url="html/P_UsbEject_Library_DeviceClass_Devices.htm" />
   <HelpKINode Title="DiskDeviceClass class">
     <HelpKINode Title="DiskDeviceClass Class" Url="html/T_UsbEject_Library_DiskDeviceClass.htm" />
@@ -82,6 +83,10 @@
   <HelpKINode Title="EjectSupported enumeration member" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
   <HelpKINode Title="Finalize method" Url="html/M_UsbEject_Library_DeviceClass_Finalize.htm" />
   <HelpKINode Title="FriendlyName property" Url="html/P_UsbEject_Library_Device_FriendlyName.htm" />
+  <HelpKINode Title="GetEnumerator method">
+    <HelpKINode Title="DeviceClass.GetEnumerator Method " Url="html/M_UsbEject_Library_DeviceClass_GetEnumerator.htm" />
+    <HelpKINode Title="VolumeDeviceClass.GetEnumerator Method " Url="html/M_UsbEject_Library_VolumeDeviceClass_GetEnumerator.htm" />
+  </HelpKINode>
   <HelpKINode Title="HardwareDisabled enumeration member" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
   <HelpKINode Title="ILogger interface">
     <HelpKINode Title="ILogger Interface" Url="html/T_UsbEject_Library_ILogger.htm" />
@@ -164,6 +169,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_UsbEject_Library_VolumeDeviceClass.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_UsbEject_Library_VolumeDeviceClass.htm" />
   </HelpKINode>
+  <HelpKINode Title="VolumeDeviceClass.GetEnumerator method" Url="html/M_UsbEject_Library_VolumeDeviceClass_GetEnumerator.htm" />
   <HelpKINode Title="VolumeDeviceClass.VolumeDeviceClass constructor" Url="html/M_UsbEject_Library_VolumeDeviceClass__ctor.htm" />
   <HelpKINode Title="VolumeDeviceClass.Volumes property" Url="html/P_UsbEject_Library_VolumeDeviceClass_Volumes.htm" />
   <HelpKINode Title="VolumeName property" Url="html/P_UsbEject_Library_Volume_VolumeName.htm" />
