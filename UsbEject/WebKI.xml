@@ -38,7 +38,6 @@
   <HelpKINode Title="Device.CompareTo method" Url="html/M_UsbEject_Library_Device_CompareTo.htm" />
   <HelpKINode Title="Device.Description property" Url="html/P_UsbEject_Library_Device_Description.htm" />
   <HelpKINode Title="Device.DeviceClass property" Url="html/P_UsbEject_Library_Device_DeviceClass.htm" />
-  <HelpKINode Title="Device.DiskNumber property" Url="html/P_UsbEject_Library_Device_DiskNumber.htm" />
   <HelpKINode Title="Device.Eject method" Url="html/M_UsbEject_Library_Device_Eject.htm" />
   <HelpKINode Title="Device.FriendlyName property" Url="html/P_UsbEject_Library_Device_FriendlyName.htm" />
   <HelpKINode Title="Device.Index property" Url="html/P_UsbEject_Library_Device_Index.htm" />
@@ -61,8 +60,14 @@
   <HelpKINode Title="DeviceClass.Devices property" Url="html/P_UsbEject_Library_DeviceClass_Devices.htm" />
   <HelpKINode Title="DeviceClass.Dispose method" Url="html/Overload_UsbEject_Library_DeviceClass_Dispose.htm" />
   <HelpKINode Title="DeviceClass.Finalize method" Url="html/M_UsbEject_Library_DeviceClass_Finalize.htm" />
-  <HelpKINode Title="DeviceClass.GetEnumerator method" Url="html/M_UsbEject_Library_DeviceClass_GetEnumerator.htm" />
   <HelpKINode Title="Devices property" Url="html/P_UsbEject_Library_DeviceClass_Devices.htm" />
+  <HelpKINode Title="Disk class">
+    <HelpKINode Title="Disk Class" Url="html/T_UsbEject_Library_Disk.htm" />
+    <HelpKINode Title="about Disk class" Url="html/T_UsbEject_Library_Disk.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_UsbEject_Library_Disk.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_UsbEject_Library_Disk.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Disk.DiskNumber property" Url="html/P_UsbEject_Library_Disk_DiskNumber.htm" />
   <HelpKINode Title="DiskDeviceClass class">
     <HelpKINode Title="DiskDeviceClass Class" Url="html/T_UsbEject_Library_DiskDeviceClass.htm" />
     <HelpKINode Title="about DiskDeviceClass class" Url="html/T_UsbEject_Library_DiskDeviceClass.htm" />
@@ -71,9 +76,14 @@
     <HelpKINode Title="properties" Url="html/Properties_T_UsbEject_Library_DiskDeviceClass.htm" />
   </HelpKINode>
   <HelpKINode Title="DiskDeviceClass.DiskDeviceClass constructor" Url="html/M_UsbEject_Library_DiskDeviceClass__ctor.htm" />
-  <HelpKINode Title="DiskNumber property" Url="html/P_UsbEject_Library_Device_DiskNumber.htm" />
+  <HelpKINode Title="DiskDeviceClass.Disks property" Url="html/P_UsbEject_Library_DiskDeviceClass_Disks.htm" />
+  <HelpKINode Title="DiskDeviceClass.GetEnumerator method" Url="html/M_UsbEject_Library_DiskDeviceClass_GetEnumerator.htm" />
+  <HelpKINode Title="DiskNumber property" Url="html/P_UsbEject_Library_Disk_DiskNumber.htm" />
   <HelpKINode Title="DiskNumbers property" Url="html/P_UsbEject_Library_Volume_DiskNumbers.htm" />
-  <HelpKINode Title="Disks property" Url="html/P_UsbEject_Library_Volume_Disks.htm" />
+  <HelpKINode Title="Disks property">
+    <HelpKINode Title="DiskDeviceClass.Disks Property " Url="html/P_UsbEject_Library_DiskDeviceClass_Disks.htm" />
+    <HelpKINode Title="Volume.Disks Property " Url="html/P_UsbEject_Library_Volume_Disks.htm" />
+  </HelpKINode>
   <HelpKINode Title="Dispose method">
     <HelpKINode Title="DeviceClass.Dispose Method " Url="html/Overload_UsbEject_Library_DeviceClass_Dispose.htm" />
     <HelpKINode Title="TextLogger.Dispose Method " Url="html/M_UsbEject_Library_Logging_TextLogger_Dispose.htm" />
@@ -84,7 +94,7 @@
   <HelpKINode Title="Finalize method" Url="html/M_UsbEject_Library_DeviceClass_Finalize.htm" />
   <HelpKINode Title="FriendlyName property" Url="html/P_UsbEject_Library_Device_FriendlyName.htm" />
   <HelpKINode Title="GetEnumerator method">
-    <HelpKINode Title="DeviceClass.GetEnumerator Method " Url="html/M_UsbEject_Library_DeviceClass_GetEnumerator.htm" />
+    <HelpKINode Title="DiskDeviceClass.GetEnumerator Method " Url="html/M_UsbEject_Library_DiskDeviceClass_GetEnumerator.htm" />
     <HelpKINode Title="VolumeDeviceClass.GetEnumerator Method " Url="html/M_UsbEject_Library_VolumeDeviceClass_GetEnumerator.htm" />
   </HelpKINode>
   <HelpKINode Title="HardwareDisabled enumeration member" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
@@ -141,6 +151,7 @@
   <HelpKINode Title="UsbEject.Library.Device class" Url="html/T_UsbEject_Library_Device.htm" />
   <HelpKINode Title="UsbEject.Library.DeviceCapabilities enumeration" Url="html/T_UsbEject_Library_DeviceCapabilities.htm" />
   <HelpKINode Title="UsbEject.Library.DeviceClass class" Url="html/T_UsbEject_Library_DeviceClass.htm" />
+  <HelpKINode Title="UsbEject.Library.Disk class" Url="html/T_UsbEject_Library_Disk.htm" />
   <HelpKINode Title="UsbEject.Library.DiskDeviceClass class" Url="html/T_UsbEject_Library_DiskDeviceClass.htm" />
   <HelpKINode Title="UsbEject.Library.ILogger interface" Url="html/T_UsbEject_Library_ILogger.htm" />
   <HelpKINode Title="UsbEject.Library.Logging namespace" Url="html/N_UsbEject_Library_Logging.htm" />
