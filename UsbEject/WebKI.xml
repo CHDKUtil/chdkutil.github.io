@@ -23,9 +23,15 @@
     <HelpKINode Title="DebugLogger Class" Url="html/T_UsbEject_Library_Logging_DebugLogger.htm" />
     <HelpKINode Title="about DebugLogger class" Url="html/T_UsbEject_Library_Logging_DebugLogger.htm" />
     <HelpKINode Title="constructor" Url="html/M_UsbEject_Library_Logging_DebugLogger__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_UsbEject_Library_Logging_DebugLogger.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_UsbEject_Library_Logging_DebugLogger.htm" />
   </HelpKINode>
   <HelpKINode Title="DebugLogger.DebugLogger constructor" Url="html/M_UsbEject_Library_Logging_DebugLogger__ctor.htm" />
+  <HelpKINode Title="DebugLogger.Default field" Url="html/F_UsbEject_Library_Logging_DebugLogger_Default.htm" />
+  <HelpKINode Title="Default field">
+    <HelpKINode Title="DebugLogger.Default Field" Url="html/F_UsbEject_Library_Logging_DebugLogger_Default.htm" />
+    <HelpKINode Title="TraceLogger.Default Field" Url="html/F_UsbEject_Library_Logging_TraceLogger_Default.htm" />
+  </HelpKINode>
   <HelpKINode Title="Description property" Url="html/P_UsbEject_Library_Device_Description.htm" />
   <HelpKINode Title="Device class">
     <HelpKINode Title="Device Class" Url="html/T_UsbEject_Library_Device.htm" />
@@ -140,12 +146,15 @@
   <HelpKINode Title="TextLogger.Dispose method" Url="html/M_UsbEject_Library_Logging_TextLogger_Dispose.htm" />
   <HelpKINode Title="TextLogger.TextLogger constructor" Url="html/M_UsbEject_Library_Logging_TextLogger__ctor.htm" />
   <HelpKINode Title="TextLogger.Write method" Url="html/Overload_UsbEject_Library_Logging_TextLogger_Write.htm" />
+  <HelpKINode Title="Trace enumeration member" Url="html/T_UsbEject_Library_LogLevel.htm" />
   <HelpKINode Title="TraceLogger class">
     <HelpKINode Title="TraceLogger Class" Url="html/T_UsbEject_Library_Logging_TraceLogger.htm" />
     <HelpKINode Title="about TraceLogger class" Url="html/T_UsbEject_Library_Logging_TraceLogger.htm" />
     <HelpKINode Title="constructor" Url="html/M_UsbEject_Library_Logging_TraceLogger__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_UsbEject_Library_Logging_TraceLogger.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_UsbEject_Library_Logging_TraceLogger.htm" />
   </HelpKINode>
+  <HelpKINode Title="TraceLogger.Default field" Url="html/F_UsbEject_Library_Logging_TraceLogger_Default.htm" />
   <HelpKINode Title="TraceLogger.TraceLogger constructor" Url="html/M_UsbEject_Library_Logging_TraceLogger__ctor.htm" />
   <HelpKINode Title="TraceLoggerBase class">
     <HelpKINode Title="TraceLoggerBase Class" Url="html/T_UsbEject_Library_Logging_TraceLoggerBase.htm" />
@@ -185,7 +194,6 @@
   <HelpKINode Title="UsbEject.Library.LogLevel enumeration" Url="html/T_UsbEject_Library_LogLevel.htm" />
   <HelpKINode Title="UsbEject.Library.Volume class" Url="html/T_UsbEject_Library_Volume.htm" />
   <HelpKINode Title="UsbEject.Library.VolumeDeviceClass class" Url="html/T_UsbEject_Library_VolumeDeviceClass.htm" />
-  <HelpKINode Title="Verbose enumeration member" Url="html/T_UsbEject_Library_LogLevel.htm" />
   <HelpKINode Title="Volume class">
     <HelpKINode Title="Volume Class" Url="html/T_UsbEject_Library_Volume.htm" />
     <HelpKINode Title="about Volume class" Url="html/T_UsbEject_Library_Volume.htm" />
