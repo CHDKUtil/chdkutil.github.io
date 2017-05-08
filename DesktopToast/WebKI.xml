@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Activate method">
+    <HelpKINode Title="INotificationActivationCallback.Activate Method " Url="html/M_DesktopToast_INotificationActivationCallback_Activate.htm" />
+    <HelpKINode Title="NotificationActivatorBase.Activate Method " Url="html/M_DesktopToast_NotificationActivatorBase_Activate.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Activated enumeration member" Url="html/T_DesktopToast_ToastResult.htm" />
+  <HelpKINode Title="ActivatorId property" Url="html/P_DesktopToast_ToastRequest_ActivatorId.htm" />
+  <HelpKINode Title="AppId property" Url="html/P_DesktopToast_ToastRequest_AppId.htm" />
+  <HelpKINode Title="ApplicationHidden enumeration member" Url="html/T_DesktopToast_ToastResult.htm" />
+  <HelpKINode Title="Critical enumeration member" Url="html/T_DesktopToast_LogLevel.htm" />
+  <HelpKINode Title="Debug enumeration member" Url="html/T_DesktopToast_LogLevel.htm" />
+  <HelpKINode Title="Default enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="DesktopToast namespace" Url="html/N_DesktopToast.htm" />
+  <HelpKINode Title="DesktopToast.ILogger interface" Url="html/T_DesktopToast_ILogger.htm" />
+  <HelpKINode Title="DesktopToast.INotificationActivationCallback interface" Url="html/T_DesktopToast_INotificationActivationCallback.htm" />
+  <HelpKINode Title="DesktopToast.Logging namespace" Url="html/N_DesktopToast_Logging.htm" />
+  <HelpKINode Title="DesktopToast.Logging.NullLogger class" Url="html/T_DesktopToast_Logging_NullLogger.htm" />
+  <HelpKINode Title="DesktopToast.LogLevel enumeration" Url="html/T_DesktopToast_LogLevel.htm" />
+  <HelpKINode Title="DesktopToast.NotificationActivatorBase class" Url="html/T_DesktopToast_NotificationActivatorBase.htm" />
+  <HelpKINode Title="DesktopToast.NotificationHelper class" Url="html/T_DesktopToast_NotificationHelper.htm" />
+  <HelpKINode Title="DesktopToast.NOTIFICATION_USER_INPUT_DATA structure" Url="html/T_DesktopToast_NOTIFICATION_USER_INPUT_DATA.htm" />
+  <HelpKINode Title="DesktopToast.ShortcutWindowState enumeration" Url="html/T_DesktopToast_ShortcutWindowState.htm" />
+  <HelpKINode Title="DesktopToast.ToastAudio enumeration" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="DesktopToast.ToastManager class" Url="html/T_DesktopToast_ToastManager.htm" />
+  <HelpKINode Title="DesktopToast.ToastRequest class" Url="html/T_DesktopToast_ToastRequest.htm" />
+  <HelpKINode Title="DesktopToast.ToastResult enumeration" Url="html/T_DesktopToast_ToastResult.htm" />
+  <HelpKINode Title="DisabledByGroupPolicy enumeration member" Url="html/T_DesktopToast_ToastResult.htm" />
+  <HelpKINode Title="DisabledByManifest enumeration member" Url="html/T_DesktopToast_ToastResult.htm" />
+  <HelpKINode Title="DisabledForApplication enumeration member" Url="html/T_DesktopToast_ToastResult.htm" />
+  <HelpKINode Title="DisabledForUser enumeration member" Url="html/T_DesktopToast_ToastResult.htm" />
+  <HelpKINode Title="Error enumeration member" Url="html/T_DesktopToast_LogLevel.htm" />
+  <HelpKINode Title="Failed enumeration member" Url="html/T_DesktopToast_ToastResult.htm" />
+  <HelpKINode Title="FromJsonString method" Url="html/M_DesktopToast_ToastRequest_FromJsonString.htm" />
+  <HelpKINode Title="ILogger interface">
+    <HelpKINode Title="ILogger Interface" Url="html/T_DesktopToast_ILogger.htm" />
+    <HelpKINode Title="about ILogger interface" Url="html/T_DesktopToast_ILogger.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_DesktopToast_ILogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogger.Log method" Url="html/Overload_DesktopToast_ILogger_Log.htm" />
+  <HelpKINode Title="IM enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="Information enumeration member" Url="html/T_DesktopToast_LogLevel.htm" />
+  <HelpKINode Title="INotificationActivationCallback interface">
+    <HelpKINode Title="INotificationActivationCallback Interface" Url="html/T_DesktopToast_INotificationActivationCallback.htm" />
+    <HelpKINode Title="about INotificationActivationCallback interface" Url="html/T_DesktopToast_INotificationActivationCallback.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_DesktopToast_INotificationActivationCallback.htm" />
+  </HelpKINode>
+  <HelpKINode Title="INotificationActivationCallback.Activate method" Url="html/M_DesktopToast_INotificationActivationCallback_Activate.htm" />
+  <HelpKINode Title="Instance field" Url="html/F_DesktopToast_Logging_NullLogger_Instance.htm" />
+  <HelpKINode Title="Invalid enumeration member" Url="html/T_DesktopToast_ToastResult.htm" />
+  <HelpKINode Title="Key field" Url="html/F_DesktopToast_NOTIFICATION_USER_INPUT_DATA_Key.htm" />
+  <HelpKINode Title="Log method" Url="html/Overload_DesktopToast_ILogger_Log.htm" />
+  <HelpKINode Title="LogLevel enumeration" Url="html/T_DesktopToast_LogLevel.htm" />
+  <HelpKINode Title="LoopingAlarm enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingAlarm10 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingAlarm2 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingAlarm3 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingAlarm4 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingAlarm5 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingAlarm6 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingAlarm7 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingAlarm8 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingAlarm9 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingCall enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingCall10 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingCall2 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingCall3 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingCall4 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingCall5 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingCall6 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingCall7 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingCall8 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="LoopingCall9 enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="Mail enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="Maximized enumeration member" Url="html/T_DesktopToast_ShortcutWindowState.htm" />
+  <HelpKINode Title="Minimized enumeration member" Url="html/T_DesktopToast_ShortcutWindowState.htm" />
+  <HelpKINode Title="None enumeration member" Url="html/T_DesktopToast_LogLevel.htm" />
+  <HelpKINode Title="Normal enumeration member" Url="html/T_DesktopToast_ShortcutWindowState.htm" />
+  <HelpKINode Title="NotificationActivatorBase class">
+    <HelpKINode Title="NotificationActivatorBase Class" Url="html/T_DesktopToast_NotificationActivatorBase.htm" />
+    <HelpKINode Title="about NotificationActivatorBase class" Url="html/T_DesktopToast_NotificationActivatorBase.htm" />
+    <HelpKINode Title="constructor" Url="html/M_DesktopToast_NotificationActivatorBase__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_DesktopToast_NotificationActivatorBase.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NotificationActivatorBase.Activate method" Url="html/M_DesktopToast_NotificationActivatorBase_Activate.htm" />
+  <HelpKINode Title="NotificationActivatorBase.NotificationActivatorBase constructor" Url="html/M_DesktopToast_NotificationActivatorBase__ctor.htm" />
+  <HelpKINode Title="NotificationActivatorBase.RegisterComType method" Url="html/M_DesktopToast_NotificationActivatorBase_RegisterComType.htm" />
+  <HelpKINode Title="NotificationActivatorBase.UnregisterComType method" Url="html/M_DesktopToast_NotificationActivatorBase_UnregisterComType.htm" />
+  <HelpKINode Title="NotificationHelper class">
+    <HelpKINode Title="NotificationHelper Class" Url="html/T_DesktopToast_NotificationHelper.htm" />
+    <HelpKINode Title="about NotificationHelper class" Url="html/T_DesktopToast_NotificationHelper.htm" />
+    <HelpKINode Title="constructor" Url="html/M_DesktopToast_NotificationHelper__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_DesktopToast_NotificationHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NotificationHelper.NotificationHelper constructor" Url="html/M_DesktopToast_NotificationHelper__ctor.htm" />
+  <HelpKINode Title="NotificationHelper.RegisterComServer method" Url="html/M_DesktopToast_NotificationHelper_RegisterComServer.htm" />
+  <HelpKINode Title="NotificationHelper.UnregisterComServer method" Url="html/M_DesktopToast_NotificationHelper_UnregisterComServer.htm" />
+  <HelpKINode Title="NOTIFICATION_USER_INPUT_DATA structure">
+    <HelpKINode Title="NOTIFICATION_USER_INPUT_DATA Structure" Url="html/T_DesktopToast_NOTIFICATION_USER_INPUT_DATA.htm" />
+    <HelpKINode Title="about NOTIFICATION_USER_INPUT_DATA structure" Url="html/T_DesktopToast_NOTIFICATION_USER_INPUT_DATA.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_DesktopToast_NOTIFICATION_USER_INPUT_DATA.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_DesktopToast_NOTIFICATION_USER_INPUT_DATA.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NOTIFICATION_USER_INPUT_DATA.Key field" Url="html/F_DesktopToast_NOTIFICATION_USER_INPUT_DATA_Key.htm" />
+  <HelpKINode Title="NOTIFICATION_USER_INPUT_DATA.Value field" Url="html/F_DesktopToast_NOTIFICATION_USER_INPUT_DATA_Value.htm" />
+  <HelpKINode Title="NullLogger class">
+    <HelpKINode Title="NullLogger Class" Url="html/T_DesktopToast_Logging_NullLogger.htm" />
+    <HelpKINode Title="about NullLogger class" Url="html/T_DesktopToast_Logging_NullLogger.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_DesktopToast_Logging_NullLogger.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_DesktopToast_Logging_NullLogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NullLogger.Instance field" Url="html/F_DesktopToast_Logging_NullLogger_Instance.htm" />
+  <HelpKINode Title="RegisterComServer method" Url="html/M_DesktopToast_NotificationHelper_RegisterComServer.htm" />
+  <HelpKINode Title="RegisterComType method" Url="html/M_DesktopToast_NotificationActivatorBase_RegisterComType.htm" />
+  <HelpKINode Title="Reminder enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="ShortcutArguments property" Url="html/P_DesktopToast_ToastRequest_ShortcutArguments.htm" />
+  <HelpKINode Title="ShortcutComment property" Url="html/P_DesktopToast_ToastRequest_ShortcutComment.htm" />
+  <HelpKINode Title="ShortcutFileName property" Url="html/P_DesktopToast_ToastRequest_ShortcutFileName.htm" />
+  <HelpKINode Title="ShortcutIconFilePath property" Url="html/P_DesktopToast_ToastRequest_ShortcutIconFilePath.htm" />
+  <HelpKINode Title="ShortcutTargetFilePath property" Url="html/P_DesktopToast_ToastRequest_ShortcutTargetFilePath.htm" />
+  <HelpKINode Title="ShortcutWindowState enumeration" Url="html/T_DesktopToast_ShortcutWindowState.htm" />
+  <HelpKINode Title="ShortcutWindowState property" Url="html/P_DesktopToast_ToastRequest_ShortcutWindowState.htm" />
+  <HelpKINode Title="ShortcutWorkingFolder property" Url="html/P_DesktopToast_ToastRequest_ShortcutWorkingFolder.htm" />
+  <HelpKINode Title="ShowAsync method" Url="html/Overload_DesktopToast_ToastManager_ShowAsync.htm" />
+  <HelpKINode Title="Silent enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="SMS enumeration member" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="TimedOut enumeration member" Url="html/T_DesktopToast_ToastResult.htm" />
+  <HelpKINode Title="ToastAudio enumeration" Url="html/T_DesktopToast_ToastAudio.htm" />
+  <HelpKINode Title="ToastAudio property" Url="html/P_DesktopToast_ToastRequest_ToastAudio.htm" />
+  <HelpKINode Title="ToastBody property" Url="html/P_DesktopToast_ToastRequest_ToastBody.htm" />
+  <HelpKINode Title="ToastBodyList property" Url="html/P_DesktopToast_ToastRequest_ToastBodyList.htm" />
+  <HelpKINode Title="ToastLogoFilePath property" Url="html/P_DesktopToast_ToastRequest_ToastLogoFilePath.htm" />
+  <HelpKINode Title="ToastManager class">
+    <HelpKINode Title="ToastManager Class" Url="html/T_DesktopToast_ToastManager.htm" />
+    <HelpKINode Title="about ToastManager class" Url="html/T_DesktopToast_ToastManager.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_DesktopToast_ToastManager.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToastManager.ShowAsync method" Url="html/Overload_DesktopToast_ToastManager_ShowAsync.htm" />
+  <HelpKINode Title="ToastRequest class">
+    <HelpKINode Title="ToastRequest Class" Url="html/T_DesktopToast_ToastRequest.htm" />
+    <HelpKINode Title="about ToastRequest class" Url="html/T_DesktopToast_ToastRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M_DesktopToast_ToastRequest__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_DesktopToast_ToastRequest.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_DesktopToast_ToastRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToastRequest.ActivatorId property" Url="html/P_DesktopToast_ToastRequest_ActivatorId.htm" />
+  <HelpKINode Title="ToastRequest.AppId property" Url="html/P_DesktopToast_ToastRequest_AppId.htm" />
+  <HelpKINode Title="ToastRequest.FromJsonString method" Url="html/M_DesktopToast_ToastRequest_FromJsonString.htm" />
+  <HelpKINode Title="ToastRequest.ShortcutArguments property" Url="html/P_DesktopToast_ToastRequest_ShortcutArguments.htm" />
+  <HelpKINode Title="ToastRequest.ShortcutComment property" Url="html/P_DesktopToast_ToastRequest_ShortcutComment.htm" />
+  <HelpKINode Title="ToastRequest.ShortcutFileName property" Url="html/P_DesktopToast_ToastRequest_ShortcutFileName.htm" />
+  <HelpKINode Title="ToastRequest.ShortcutIconFilePath property" Url="html/P_DesktopToast_ToastRequest_ShortcutIconFilePath.htm" />
+  <HelpKINode Title="ToastRequest.ShortcutTargetFilePath property" Url="html/P_DesktopToast_ToastRequest_ShortcutTargetFilePath.htm" />
+  <HelpKINode Title="ToastRequest.ShortcutWindowState property" Url="html/P_DesktopToast_ToastRequest_ShortcutWindowState.htm" />
+  <HelpKINode Title="ToastRequest.ShortcutWorkingFolder property" Url="html/P_DesktopToast_ToastRequest_ShortcutWorkingFolder.htm" />
+  <HelpKINode Title="ToastRequest.ToastAudio property" Url="html/P_DesktopToast_ToastRequest_ToastAudio.htm" />
+  <HelpKINode Title="ToastRequest.ToastBody property" Url="html/P_DesktopToast_ToastRequest_ToastBody.htm" />
+  <HelpKINode Title="ToastRequest.ToastBodyList property" Url="html/P_DesktopToast_ToastRequest_ToastBodyList.htm" />
+  <HelpKINode Title="ToastRequest.ToastLogoFilePath property" Url="html/P_DesktopToast_ToastRequest_ToastLogoFilePath.htm" />
+  <HelpKINode Title="ToastRequest.ToastRequest constructor" Url="html/M_DesktopToast_ToastRequest__ctor.htm" />
+  <HelpKINode Title="ToastRequest.ToastTitle property" Url="html/P_DesktopToast_ToastRequest_ToastTitle.htm" />
+  <HelpKINode Title="ToastRequest.ToastXml property" Url="html/P_DesktopToast_ToastRequest_ToastXml.htm" />
+  <HelpKINode Title="ToastRequest.ToJsonString method" Url="html/M_DesktopToast_ToastRequest_ToJsonString.htm" />
+  <HelpKINode Title="ToastRequest.WaitingDuration property" Url="html/P_DesktopToast_ToastRequest_WaitingDuration.htm" />
+  <HelpKINode Title="ToastResult enumeration" Url="html/T_DesktopToast_ToastResult.htm" />
+  <HelpKINode Title="ToastTitle property" Url="html/P_DesktopToast_ToastRequest_ToastTitle.htm" />
+  <HelpKINode Title="ToastXml property" Url="html/P_DesktopToast_ToastRequest_ToastXml.htm" />
+  <HelpKINode Title="ToJsonString method" Url="html/M_DesktopToast_ToastRequest_ToJsonString.htm" />
+  <HelpKINode Title="Trace enumeration member" Url="html/T_DesktopToast_LogLevel.htm" />
+  <HelpKINode Title="Unavailable enumeration member" Url="html/T_DesktopToast_ToastResult.htm" />
+  <HelpKINode Title="UnregisterComServer method" Url="html/M_DesktopToast_NotificationHelper_UnregisterComServer.htm" />
+  <HelpKINode Title="UnregisterComType method" Url="html/M_DesktopToast_NotificationActivatorBase_UnregisterComType.htm" />
+  <HelpKINode Title="UserCanceled enumeration member" Url="html/T_DesktopToast_ToastResult.htm" />
+  <HelpKINode Title="Value field" Url="html/F_DesktopToast_NOTIFICATION_USER_INPUT_DATA_Value.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="history" Url="html/217c1e06-0724-4799-8e31-f6f2867fb8c3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WaitingDuration property" Url="html/P_DesktopToast_ToastRequest_WaitingDuration.htm" />
+  <HelpKINode Title="Warning enumeration member" Url="html/T_DesktopToast_LogLevel.htm" />
+  <HelpKINode Title="Welcome" Url="html/f36f82d9-121d-4756-881a-9a83aad4653e.htm" />
+</HelpKI>
