@@ -2,10 +2,10 @@
 <HelpTOC>
 
   <HelpTOCNode Title="Welcome" Url="html/e37d3f20-c770-44bf-ba4a-08ee59b06bff.htm" />
-  <HelpTOCNode Id="d693092c-40be-4d27-9e40-30867f1b84e6" Title="Reference" Url="html/R_Project_UsbEject.htm">
-    <HelpTOCNode Id="f38ebc0e-5efe-4d68-a77b-f5cbda5df8dd" Title="UsbEject" Url="html/N_UsbEject.htm">
-      <HelpTOCNode Id="b9f24ae0-5e78-4f04-9551-4a849944a1d6" Title="Device Class" Url="html/T_UsbEject_Device.htm">
-        <HelpTOCNode Id="3a61a653-1e18-410f-97b2-97af9c646290" Title="Device Properties" Url="html/Properties_T_UsbEject_Device.htm">
+  <HelpTOCNode Id="e52933ae-4e24-447a-9666-b3fcd61616a6" Title="Reference" Url="html/R_Project_UsbEject.htm">
+    <HelpTOCNode Id="c3ccfae2-f053-474e-9809-1a524e0a1cad" Title="UsbEject" Url="html/N_UsbEject.htm">
+      <HelpTOCNode Id="ffd82df7-a1d9-4e21-be54-6930eabb2edc" Title="Device Class" Url="html/T_UsbEject_Device.htm">
+        <HelpTOCNode Id="0408fd25-6005-4584-b9b4-44eb93f58ff6" Title="Device Properties" Url="html/Properties_T_UsbEject_Device.htm">
           <HelpTOCNode Title="Capabilities Property " Url="html/P_UsbEject_Device_Capabilities.htm" />
           <HelpTOCNode Title="Class Property " Url="html/P_UsbEject_Device_Class.htm" />
           <HelpTOCNode Title="ClassGuid Property " Url="html/P_UsbEject_Device_ClassGuid.htm" />
@@ -19,138 +19,71 @@
           <HelpTOCNode Title="Path Property " Url="html/P_UsbEject_Device_Path.htm" />
           <HelpTOCNode Title="RemovableDevices Property " Url="html/P_UsbEject_Device_RemovableDevices.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ad25975b-59f9-48d6-a335-7919b686c6f2" Title="Device Methods" Url="html/Methods_T_UsbEject_Device.htm">
+        <HelpTOCNode Id="1ac26b1a-906a-439f-bb12-6556aa2caa6c" Title="Device Methods" Url="html/Methods_T_UsbEject_Device.htm">
           <HelpTOCNode Title="CompareTo Method " Url="html/M_UsbEject_Device_CompareTo.htm" />
           <HelpTOCNode Title="Eject Method " Url="html/M_UsbEject_Device_Eject.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="DeviceCapabilities Enumeration" Url="html/T_UsbEject_DeviceCapabilities.htm" />
-      <HelpTOCNode Id="aaa0e35a-6a54-4672-822d-be433f215e29" Title="DeviceClass Class" Url="html/T_UsbEject_DeviceClass.htm">
-        <HelpTOCNode Id="720f8314-e1e4-46cd-8dd6-3698df17071f" Title="DeviceClass Constructor " Url="html/Overload_UsbEject_DeviceClass__ctor.htm">
-          <HelpTOCNode Title="DeviceClass Constructor (Guid, ILogger)" Url="html/M_UsbEject_DeviceClass__ctor_1.htm" />
-          <HelpTOCNode Title="DeviceClass Constructor (Guid, IntPtr, ILogger)" Url="html/M_UsbEject_DeviceClass__ctor.htm" />
+      <HelpTOCNode Id="e7132ca6-328b-4094-b906-512f9462c0f4" Title="DeviceClass Class" Url="html/T_UsbEject_DeviceClass.htm">
+        <HelpTOCNode Id="84e4dd39-4fb4-42f8-83ff-2c1c589d1a7d" Title="DeviceClass Constructor " Url="html/Overload_UsbEject_DeviceClass__ctor.htm">
+          <HelpTOCNode Title="DeviceClass Constructor (Guid, ILogger)" Url="html/M_UsbEject_DeviceClass__ctor.htm" />
+          <HelpTOCNode Title="DeviceClass Constructor (Guid, IntPtr, ILogger)" Url="html/M_UsbEject_DeviceClass__ctor_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="4a45fa7f-67c7-428d-b65f-fccc0b0b1214" Title="DeviceClass Properties" Url="html/Properties_T_UsbEject_DeviceClass.htm">
+        <HelpTOCNode Id="34b88fc2-05e6-4c9d-aeb3-90886be345f5" Title="DeviceClass Properties" Url="html/Properties_T_UsbEject_DeviceClass.htm">
           <HelpTOCNode Title="ClassGuid Property " Url="html/P_UsbEject_DeviceClass_ClassGuid.htm" />
           <HelpTOCNode Title="Devices Property " Url="html/P_UsbEject_DeviceClass_Devices.htm" />
+          <HelpTOCNode Title="Logger Property " Url="html/P_UsbEject_DeviceClass_Logger.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e72ed3bd-df1a-4eef-8421-86a61f023ddc" Title="DeviceClass Methods" Url="html/Methods_T_UsbEject_DeviceClass.htm">
-          <HelpTOCNode Id="88549471-aa7e-4ec8-ab45-aab7f7242f07" Title="Dispose Method " Url="html/Overload_UsbEject_DeviceClass_Dispose.htm">
+        <HelpTOCNode Id="bba8dec6-d4b5-4086-888c-6eb60b000ecc" Title="DeviceClass Methods" Url="html/Methods_T_UsbEject_DeviceClass.htm">
+          <HelpTOCNode Id="b64ed6f6-40e0-4ddc-842b-365d4f795cb8" Title="Dispose Method " Url="html/Overload_UsbEject_DeviceClass_Dispose.htm">
             <HelpTOCNode Title="Dispose Method " Url="html/M_UsbEject_DeviceClass_Dispose.htm" />
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_UsbEject_DeviceClass_Dispose_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="Finalize Method " Url="html/M_UsbEject_DeviceClass_Finalize.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="9e858005-bb86-4739-bf20-13e012c3f772" Title="Disk Class" Url="html/T_UsbEject_Disk.htm">
-        <HelpTOCNode Id="594f294c-3238-407f-90c4-c23e77f2c2d4" Title="Disk Properties" Url="html/Properties_T_UsbEject_Disk.htm">
+      <HelpTOCNode Id="4dee429d-6428-4525-8477-e584f52ac1b1" Title="Disk Class" Url="html/T_UsbEject_Disk.htm">
+        <HelpTOCNode Id="81438763-6003-472d-91a8-5d27014e22e8" Title="Disk Properties" Url="html/Properties_T_UsbEject_Disk.htm">
           <HelpTOCNode Title="DiskNumber Property " Url="html/P_UsbEject_Disk_DiskNumber.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Disk Methods" Url="html/Methods_T_UsbEject_Disk.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="08d1a06b-8f85-45de-8830-6a58c39784b1" Title="DiskDeviceClass Class" Url="html/T_UsbEject_DiskDeviceClass.htm">
-        <HelpTOCNode Title="DiskDeviceClass Constructor " Url="html/M_UsbEject_DiskDeviceClass__ctor.htm" />
-        <HelpTOCNode Id="84f82c04-00a2-46ea-a498-fa439137de8f" Title="DiskDeviceClass Properties" Url="html/Properties_T_UsbEject_DiskDeviceClass.htm">
+      <HelpTOCNode Id="b8782fd3-ce02-43b0-ab38-86960284f5bf" Title="DiskDeviceClass Class" Url="html/T_UsbEject_DiskDeviceClass.htm">
+        <HelpTOCNode Id="d93369e0-e2e3-45d1-83ca-50663d44907b" Title="DiskDeviceClass Constructor " Url="html/Overload_UsbEject_DiskDeviceClass__ctor.htm">
+          <HelpTOCNode Title="DiskDeviceClass Constructor " Url="html/M_UsbEject_DiskDeviceClass__ctor.htm" />
+          <HelpTOCNode Title="DiskDeviceClass Constructor (ILoggerFactory)" Url="html/M_UsbEject_DiskDeviceClass__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="935b46e5-44da-48df-bc50-9decb71d156f" Title="DiskDeviceClass Properties" Url="html/Properties_T_UsbEject_DiskDeviceClass.htm">
           <HelpTOCNode Title="Count Property " Url="html/P_UsbEject_DiskDeviceClass_Count.htm" />
           <HelpTOCNode Title="Disks Property " Url="html/P_UsbEject_DiskDeviceClass_Disks.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c5dafcc4-3007-4b45-83bd-3ad87c6a1b00" Title="DiskDeviceClass Methods" Url="html/Methods_T_UsbEject_DiskDeviceClass.htm">
+        <HelpTOCNode Id="b315dbc4-55a1-4a83-bd01-4ee91e1a9c2b" Title="DiskDeviceClass Methods" Url="html/Methods_T_UsbEject_DiskDeviceClass.htm">
           <HelpTOCNode Title="GetEnumerator Method " Url="html/M_UsbEject_DiskDeviceClass_GetEnumerator.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="957fef57-75a8-4054-beb4-ae5364d3359d" Title="ILogger Interface" Url="html/T_UsbEject_ILogger.htm">
-        <HelpTOCNode Id="d537cb2d-9dc4-4bf9-9783-41baa9ff8c9a" Title="ILogger Methods" Url="html/Methods_T_UsbEject_ILogger.htm">
-          <HelpTOCNode Id="899d38cd-c753-43fc-b20e-fd5bf157d261" Title="Log Method " Url="html/Overload_UsbEject_ILogger_Log.htm">
-            <HelpTOCNode Title="Log Method (LogLevel, Object)" Url="html/M_UsbEject_ILogger_Log.htm" />
-            <HelpTOCNode Title="Log Method (LogLevel, String)" Url="html/M_UsbEject_ILogger_Log_1.htm" />
-            <HelpTOCNode Title="Log Method (LogLevel, String, Object[])" Url="html/M_UsbEject_ILogger_Log_2.htm" />
-          </HelpTOCNode>
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Title="LogLevel Enumeration" Url="html/T_UsbEject_LogLevel.htm" />
-      <HelpTOCNode Id="70b1aff2-1992-49b5-93b8-9de5db3305ba" Title="Volume Class" Url="html/T_UsbEject_Volume.htm">
-        <HelpTOCNode Id="a4662b4f-1b21-4883-b1ef-65104c54ce2e" Title="Volume Properties" Url="html/Properties_T_UsbEject_Volume.htm">
+      <HelpTOCNode Id="206535f8-b6a8-4d34-9649-d0181543917a" Title="Volume Class" Url="html/T_UsbEject_Volume.htm">
+        <HelpTOCNode Id="3509d898-6846-4857-995a-a9cff94feeab" Title="Volume Properties" Url="html/Properties_T_UsbEject_Volume.htm">
           <HelpTOCNode Title="DiskNumbers Property " Url="html/P_UsbEject_Volume_DiskNumbers.htm" />
           <HelpTOCNode Title="Disks Property " Url="html/P_UsbEject_Volume_Disks.htm" />
           <HelpTOCNode Title="LogicalDrive Property " Url="html/P_UsbEject_Volume_LogicalDrive.htm" />
           <HelpTOCNode Title="VolumeName Property " Url="html/P_UsbEject_Volume_VolumeName.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e0dedc59-383a-49ad-a5a7-c5593ffe89fa" Title="Volume Methods" Url="html/Methods_T_UsbEject_Volume.htm">
+        <HelpTOCNode Id="b7735e00-4400-4081-90af-706dacb5873e" Title="Volume Methods" Url="html/Methods_T_UsbEject_Volume.htm">
           <HelpTOCNode Title="CompareTo Method " Url="html/M_UsbEject_Volume_CompareTo.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="06f364e5-ef5a-473f-9f5e-288a5f9b5749" Title="VolumeDeviceClass Class" Url="html/T_UsbEject_VolumeDeviceClass.htm">
-        <HelpTOCNode Title="VolumeDeviceClass Constructor " Url="html/M_UsbEject_VolumeDeviceClass__ctor.htm" />
-        <HelpTOCNode Id="0b476994-343d-4b2f-81f2-2591e2ac7c98" Title="VolumeDeviceClass Properties" Url="html/Properties_T_UsbEject_VolumeDeviceClass.htm">
+      <HelpTOCNode Id="ee508acb-ee4a-49f4-903b-63d4b2cf96fb" Title="VolumeDeviceClass Class" Url="html/T_UsbEject_VolumeDeviceClass.htm">
+        <HelpTOCNode Id="86690259-9502-4f1d-b9d9-06b04872849b" Title="VolumeDeviceClass Constructor " Url="html/Overload_UsbEject_VolumeDeviceClass__ctor.htm">
+          <HelpTOCNode Title="VolumeDeviceClass Constructor " Url="html/M_UsbEject_VolumeDeviceClass__ctor.htm" />
+          <HelpTOCNode Title="VolumeDeviceClass Constructor (ILoggerFactory)" Url="html/M_UsbEject_VolumeDeviceClass__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="0850c7b0-9de5-4b66-90e8-af6305ecc55e" Title="VolumeDeviceClass Properties" Url="html/Properties_T_UsbEject_VolumeDeviceClass.htm">
           <HelpTOCNode Title="Count Property " Url="html/P_UsbEject_VolumeDeviceClass_Count.htm" />
           <HelpTOCNode Title="Volumes Property " Url="html/P_UsbEject_VolumeDeviceClass_Volumes.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="39bf7513-5d54-4eb6-8253-0b5860f6d3ac" Title="VolumeDeviceClass Methods" Url="html/Methods_T_UsbEject_VolumeDeviceClass.htm">
+        <HelpTOCNode Id="70316a6d-1802-4eec-a458-502eeb876242" Title="VolumeDeviceClass Methods" Url="html/Methods_T_UsbEject_VolumeDeviceClass.htm">
           <HelpTOCNode Title="GetEnumerator Method " Url="html/M_UsbEject_VolumeDeviceClass_GetEnumerator.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="92ef5aa4-0b72-4ebc-8559-0d532f98e0e9" Title="UsbEject.Logging" Url="html/N_UsbEject_Logging.htm">
-      <HelpTOCNode Id="c4cbce46-d870-4eda-95f5-843980d076c6" Title="ConsoleLogger Class" Url="html/T_UsbEject_Logging_ConsoleLogger.htm">
-        <HelpTOCNode Title="ConsoleLogger Constructor " Url="html/M_UsbEject_Logging_ConsoleLogger__ctor.htm" />
-        <HelpTOCNode Title="ConsoleLogger Methods" Url="html/Methods_T_UsbEject_Logging_ConsoleLogger.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="98233954-4ddb-4e61-b226-25d52b958cd5" Title="DebugLogger Class" Url="html/T_UsbEject_Logging_DebugLogger.htm">
-        <HelpTOCNode Title="DebugLogger Constructor " Url="html/M_UsbEject_Logging_DebugLogger__ctor.htm" />
-        <HelpTOCNode Title="DebugLogger Methods" Url="html/Methods_T_UsbEject_Logging_DebugLogger.htm" />
-        <HelpTOCNode Id="925c2ee1-353d-40a2-bc1b-1afc72fa1dc8" Title="DebugLogger Fields" Url="html/Fields_T_UsbEject_Logging_DebugLogger.htm">
-          <HelpTOCNode Title="Default Field" Url="html/F_UsbEject_Logging_DebugLogger_Default.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="321107fd-b532-45f0-b2fc-ea658fb8f867" Title="NullLogger Class" Url="html/T_UsbEject_Logging_NullLogger.htm">
-        <HelpTOCNode Title="NullLogger Methods" Url="html/Methods_T_UsbEject_Logging_NullLogger.htm" />
-        <HelpTOCNode Id="737c746b-8d0f-4909-88ca-9d14ffc11c47" Title="NullLogger Fields" Url="html/Fields_T_UsbEject_Logging_NullLogger.htm">
-          <HelpTOCNode Title="Instance Field" Url="html/F_UsbEject_Logging_NullLogger_Instance.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="a5c6cd74-46c3-462f-87bf-b1b242bc54b7" Title="TextLogger Class" Url="html/T_UsbEject_Logging_TextLogger.htm">
-        <HelpTOCNode Title="TextLogger Constructor " Url="html/M_UsbEject_Logging_TextLogger__ctor.htm" />
-        <HelpTOCNode Id="0e76bed8-50b7-4606-ba5a-b62db183e85c" Title="TextLogger Methods" Url="html/Methods_T_UsbEject_Logging_TextLogger.htm">
-          <HelpTOCNode Title="Dispose Method " Url="html/M_UsbEject_Logging_TextLogger_Dispose.htm" />
-          <HelpTOCNode Id="81a496db-babd-4680-87cb-efe8902ff0ad" Title="Log Method " Url="html/Overload_UsbEject_Logging_TextLogger_Log.htm">
-            <HelpTOCNode Title="Log Method (LogLevel, Object)" Url="html/M_UsbEject_Logging_TextLogger_Log.htm" />
-            <HelpTOCNode Title="Log Method (LogLevel, String)" Url="html/M_UsbEject_Logging_TextLogger_Log_1.htm" />
-            <HelpTOCNode Title="Log Method (LogLevel, String, Object[])" Url="html/M_UsbEject_Logging_TextLogger_Log_2.htm" />
-          </HelpTOCNode>
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="a83eb807-a991-46ce-b21c-8f48b46197a6" Title="TraceLogger Class" Url="html/T_UsbEject_Logging_TraceLogger.htm">
-        <HelpTOCNode Title="TraceLogger Constructor " Url="html/M_UsbEject_Logging_TraceLogger__ctor.htm" />
-        <HelpTOCNode Title="TraceLogger Methods" Url="html/Methods_T_UsbEject_Logging_TraceLogger.htm" />
-        <HelpTOCNode Id="cceae19b-e776-45ed-bbc0-4ff4f88282eb" Title="TraceLogger Fields" Url="html/Fields_T_UsbEject_Logging_TraceLogger.htm">
-          <HelpTOCNode Title="Default Field" Url="html/F_UsbEject_Logging_TraceLogger_Default.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="7596d579-0db4-43a2-835f-da75759ef1f8" Title="TraceLoggerBase Class" Url="html/T_UsbEject_Logging_TraceLoggerBase.htm">
-        <HelpTOCNode Title="TraceLoggerBase Constructor " Url="html/M_UsbEject_Logging_TraceLoggerBase__ctor.htm" />
-        <HelpTOCNode Id="c7fa9fef-17cf-4333-b95c-c5cc36be89fc" Title="TraceLoggerBase Methods" Url="html/Methods_T_UsbEject_Logging_TraceLoggerBase.htm">
-          <HelpTOCNode Id="875b5681-652b-4f22-888b-30b808b00bc8" Title="Log Method " Url="html/Overload_UsbEject_Logging_TraceLoggerBase_Log.htm">
-            <HelpTOCNode Title="Log Method (LogLevel, Object)" Url="html/M_UsbEject_Logging_TraceLoggerBase_Log.htm" />
-            <HelpTOCNode Title="Log Method (LogLevel, String)" Url="html/M_UsbEject_Logging_TraceLoggerBase_Log_1.htm" />
-            <HelpTOCNode Title="Log Method (LogLevel, String, Object[])" Url="html/M_UsbEject_Logging_TraceLoggerBase_Log_2.htm" />
-          </HelpTOCNode>
-          <HelpTOCNode Id="de6d7423-239c-431e-bc0a-15dfba180b6f" Title="WriteLineIf Method " Url="html/Overload_UsbEject_Logging_TraceLoggerBase_WriteLineIf.htm">
-            <HelpTOCNode Title="WriteLineIf Method (Boolean, Object)" Url="html/M_UsbEject_Logging_TraceLoggerBase_WriteLineIf.htm" />
-            <HelpTOCNode Title="WriteLineIf Method (Boolean, String)" Url="html/M_UsbEject_Logging_TraceLoggerBase_WriteLineIf_2.htm" />
-            <HelpTOCNode Title="WriteLineIf Method (Boolean, Object, String)" Url="html/M_UsbEject_Logging_TraceLoggerBase_WriteLineIf_1.htm" />
-            <HelpTOCNode Title="WriteLineIf Method (Boolean, String, String)" Url="html/M_UsbEject_Logging_TraceLoggerBase_WriteLineIf_3.htm" />
-          </HelpTOCNode>
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="a5ca4cf3-c952-4366-a7a5-9f93eea2666e" Title="TraceSourceLogger Class" Url="html/T_UsbEject_Logging_TraceSourceLogger.htm">
-        <HelpTOCNode Title="TraceSourceLogger Constructor " Url="html/M_UsbEject_Logging_TraceSourceLogger__ctor.htm" />
-        <HelpTOCNode Id="62c61d51-15fe-43ff-8b2c-0367c10eeb1a" Title="TraceSourceLogger Methods" Url="html/Methods_T_UsbEject_Logging_TraceSourceLogger.htm">
-          <HelpTOCNode Title="Dispose Method " Url="html/M_UsbEject_Logging_TraceSourceLogger_Dispose.htm" />
-          <HelpTOCNode Id="6a78dbc3-db40-4348-8769-989d727a5c14" Title="Log Method " Url="html/Overload_UsbEject_Logging_TraceSourceLogger_Log.htm">
-            <HelpTOCNode Title="Log Method (LogLevel, Object)" Url="html/M_UsbEject_Logging_TraceSourceLogger_Log.htm" />
-            <HelpTOCNode Title="Log Method (LogLevel, String)" Url="html/M_UsbEject_Logging_TraceSourceLogger_Log_1.htm" />
-            <HelpTOCNode Title="Log Method (LogLevel, String, Object[])" Url="html/M_UsbEject_Logging_TraceSourceLogger_Log_2.htm" />
-          </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
