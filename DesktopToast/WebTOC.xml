@@ -3,61 +3,53 @@
 
   <HelpTOCNode Title="Welcome to DesktopToast" Url="html/f36f82d9-121d-4756-881a-9a83aad4653e.htm" />
   <HelpTOCNode Title="Version History" Url="html/217c1e06-0724-4799-8e31-f6f2867fb8c3.htm" />
-  <HelpTOCNode Id="58d301c7-df6d-4e25-b481-36d0d689545e" Title="Reference" Url="html/R_Project_Documentation.htm">
-    <HelpTOCNode Id="ca6f422f-ef00-4414-876a-7e8ab7c83b2f" Title="DesktopToast" Url="html/N_DesktopToast.htm">
-      <HelpTOCNode Id="996a82bd-7e47-449e-8060-9cd5d162174f" Title="ILogger Interface" Url="html/T_DesktopToast_ILogger.htm">
-        <HelpTOCNode Id="a82d372b-e0ff-46ce-a4dc-7f6dd546b867" Title="ILogger Methods" Url="html/Methods_T_DesktopToast_ILogger.htm">
-          <HelpTOCNode Id="0a19becd-6f5f-4257-88bb-eeb8096b9d04" Title="Log Method " Url="html/Overload_DesktopToast_ILogger_Log.htm">
-            <HelpTOCNode Title="Log Method (LogLevel, Object)" Url="html/M_DesktopToast_ILogger_Log.htm" />
-            <HelpTOCNode Title="Log Method (LogLevel, String)" Url="html/M_DesktopToast_ILogger_Log_1.htm" />
-            <HelpTOCNode Title="Log Method (LogLevel, String, Object[])" Url="html/M_DesktopToast_ILogger_Log_2.htm" />
-          </HelpTOCNode>
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="5a85fea0-8be8-40e9-956e-4aae41b0bd09" Title="INotificationActivationCallback Interface" Url="html/T_DesktopToast_INotificationActivationCallback.htm">
-        <HelpTOCNode Id="40c6141d-cd09-4460-92a6-764b5846357f" Title="INotificationActivationCallback Methods" Url="html/Methods_T_DesktopToast_INotificationActivationCallback.htm">
+  <HelpTOCNode Id="1110ad04-4e94-4243-a953-75f209ba2b76" Title="Reference" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="59b5e457-3b39-4f10-846b-fac9f5ae767f" Title="DesktopToast" Url="html/N_DesktopToast.htm">
+      <HelpTOCNode Id="a7883f4a-4f5b-441f-9633-13bf1682de0f" Title="INotificationActivationCallback Interface" Url="html/T_DesktopToast_INotificationActivationCallback.htm">
+        <HelpTOCNode Id="7456062f-2fb0-4796-88c5-200a3c1542b9" Title="INotificationActivationCallback Methods" Url="html/Methods_T_DesktopToast_INotificationActivationCallback.htm">
           <HelpTOCNode Title="Activate Method " Url="html/M_DesktopToast_INotificationActivationCallback_Activate.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Title="LogLevel Enumeration" Url="html/T_DesktopToast_LogLevel.htm" />
-      <HelpTOCNode Id="3851918c-6cfe-4c95-bda6-b7134784637a" Title="NOTIFICATION_USER_INPUT_DATA Structure" Url="html/T_DesktopToast_NOTIFICATION_USER_INPUT_DATA.htm">
+      <HelpTOCNode Id="8d34ddb5-e9ec-4f00-b740-3c61250f86d9" Title="NOTIFICATION_USER_INPUT_DATA Structure" Url="html/T_DesktopToast_NOTIFICATION_USER_INPUT_DATA.htm">
         <HelpTOCNode Title="NOTIFICATION_USER_INPUT_DATA Methods" Url="html/Methods_T_DesktopToast_NOTIFICATION_USER_INPUT_DATA.htm" />
-        <HelpTOCNode Id="8b24b214-c502-4b93-b389-5b35fae67e16" Title="NOTIFICATION_USER_INPUT_DATA Fields" Url="html/Fields_T_DesktopToast_NOTIFICATION_USER_INPUT_DATA.htm">
+        <HelpTOCNode Id="c896eece-dd9d-4ba8-a06c-3e85d19a6dde" Title="NOTIFICATION_USER_INPUT_DATA Fields" Url="html/Fields_T_DesktopToast_NOTIFICATION_USER_INPUT_DATA.htm">
           <HelpTOCNode Title="Key Field" Url="html/F_DesktopToast_NOTIFICATION_USER_INPUT_DATA_Key.htm" />
           <HelpTOCNode Title="Value Field" Url="html/F_DesktopToast_NOTIFICATION_USER_INPUT_DATA_Value.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="144e4559-d8a7-4b4f-a40e-5d90807c8af8" Title="NotificationActivatorBase Class" Url="html/T_DesktopToast_NotificationActivatorBase.htm">
+      <HelpTOCNode Id="a98da3c3-8d7b-4240-8b25-95869afe2d7d" Title="NotificationActivatorBase Class" Url="html/T_DesktopToast_NotificationActivatorBase.htm">
         <HelpTOCNode Title="NotificationActivatorBase Constructor " Url="html/M_DesktopToast_NotificationActivatorBase__ctor.htm" />
-        <HelpTOCNode Id="3686a265-2280-480f-b763-d6ff51d94abc" Title="NotificationActivatorBase Methods" Url="html/Methods_T_DesktopToast_NotificationActivatorBase.htm">
+        <HelpTOCNode Id="3badcf0e-6d4b-40c1-8124-6c84dc2ab85d" Title="NotificationActivatorBase Methods" Url="html/Methods_T_DesktopToast_NotificationActivatorBase.htm">
           <HelpTOCNode Title="Activate Method " Url="html/M_DesktopToast_NotificationActivatorBase_Activate.htm" />
           <HelpTOCNode Title="RegisterComType Method " Url="html/M_DesktopToast_NotificationActivatorBase_RegisterComType.htm" />
           <HelpTOCNode Title="UnregisterComType Method " Url="html/M_DesktopToast_NotificationActivatorBase_UnregisterComType.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="1c90b9d4-e782-4be1-bed6-37dd5a392daf" Title="NotificationHelper Class" Url="html/T_DesktopToast_NotificationHelper.htm">
+      <HelpTOCNode Id="7f20bfb8-28a8-44ac-8f0f-acb6b2df8913" Title="NotificationHelper Class" Url="html/T_DesktopToast_NotificationHelper.htm">
         <HelpTOCNode Title="NotificationHelper Constructor " Url="html/M_DesktopToast_NotificationHelper__ctor.htm" />
-        <HelpTOCNode Id="814d83ba-959c-47cf-8c5c-1b84813069ed" Title="NotificationHelper Methods" Url="html/Methods_T_DesktopToast_NotificationHelper.htm">
+        <HelpTOCNode Id="23f39299-8ac1-42a6-a744-e9818dd0d917" Title="NotificationHelper Methods" Url="html/Methods_T_DesktopToast_NotificationHelper.htm">
           <HelpTOCNode Title="RegisterComServer Method " Url="html/M_DesktopToast_NotificationHelper_RegisterComServer.htm" />
           <HelpTOCNode Title="UnregisterComServer Method " Url="html/M_DesktopToast_NotificationHelper_UnregisterComServer.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="ShortcutWindowState Enumeration" Url="html/T_DesktopToast_ShortcutWindowState.htm" />
       <HelpTOCNode Title="ToastAudio Enumeration" Url="html/T_DesktopToast_ToastAudio.htm" />
-      <HelpTOCNode Id="a5475315-37dc-4c0b-98f8-23c63e222a08" Title="ToastManager Class" Url="html/T_DesktopToast_ToastManager.htm">
-        <HelpTOCNode Id="7e031f9c-c6d6-4be2-925b-e0c449dad5fd" Title="ToastManager Methods" Url="html/Methods_T_DesktopToast_ToastManager.htm">
-          <HelpTOCNode Id="5696dcd1-b1d9-41b0-9548-a9c2625935dd" Title="ShowAsync Method " Url="html/Overload_DesktopToast_ToastManager_ShowAsync.htm">
-            <HelpTOCNode Title="ShowAsync Method (String, ILogger)" Url="html/M_DesktopToast_ToastManager_ShowAsync_1.htm" />
-            <HelpTOCNode Title="ShowAsync Method (ToastRequest, ILogger)" Url="html/M_DesktopToast_ToastManager_ShowAsync.htm" />
+      <HelpTOCNode Id="3a3b5972-0137-4ac9-a4c3-b1519772703c" Title="ToastManager Class" Url="html/T_DesktopToast_ToastManager.htm">
+        <HelpTOCNode Title="ToastManager Constructor " Url="html/M_DesktopToast_ToastManager__ctor.htm" />
+        <HelpTOCNode Id="87cb8280-dede-4c40-9d9c-f1c316d4fcea" Title="ToastManager Methods" Url="html/Methods_T_DesktopToast_ToastManager.htm">
+          <HelpTOCNode Id="1b81b2d9-8f01-4dce-bb77-cb9bc787218b" Title="ShowAsync Method " Url="html/Overload_DesktopToast_ToastManager_ShowAsync.htm">
+            <HelpTOCNode Title="ShowAsync Method (String)" Url="html/M_DesktopToast_ToastManager_ShowAsync_1.htm" />
+            <HelpTOCNode Title="ShowAsync Method (ToastRequest)" Url="html/M_DesktopToast_ToastManager_ShowAsync.htm" />
             <HelpTOCNode Title="ShowAsync Method (XmlDocument, String, ILogger)" Url="html/M_DesktopToast_ToastManager_ShowAsync_2.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="2552f593-9c48-43a6-8cf6-1b9272552d19" Title="ToastRequest Class" Url="html/T_DesktopToast_ToastRequest.htm">
+      <HelpTOCNode Id="94533e8f-843c-49c2-9c60-487372d49a89" Title="ToastRequest Class" Url="html/T_DesktopToast_ToastRequest.htm">
         <HelpTOCNode Title="ToastRequest Constructor " Url="html/M_DesktopToast_ToastRequest__ctor.htm" />
-        <HelpTOCNode Id="69e3061a-70c7-4022-96b1-b21d4cb5343c" Title="ToastRequest Properties" Url="html/Properties_T_DesktopToast_ToastRequest.htm">
+        <HelpTOCNode Id="d563887f-5b18-4b5e-b78d-cc9cbe19cd4c" Title="ToastRequest Properties" Url="html/Properties_T_DesktopToast_ToastRequest.htm">
           <HelpTOCNode Title="ActivatorId Property " Url="html/P_DesktopToast_ToastRequest_ActivatorId.htm" />
           <HelpTOCNode Title="AppId Property " Url="html/P_DesktopToast_ToastRequest_AppId.htm" />
+          <HelpTOCNode Title="MaximumDuration Property " Url="html/P_DesktopToast_ToastRequest_MaximumDuration.htm" />
           <HelpTOCNode Title="ShortcutArguments Property " Url="html/P_DesktopToast_ToastRequest_ShortcutArguments.htm" />
           <HelpTOCNode Title="ShortcutComment Property " Url="html/P_DesktopToast_ToastRequest_ShortcutComment.htm" />
           <HelpTOCNode Title="ShortcutFileName Property " Url="html/P_DesktopToast_ToastRequest_ShortcutFileName.htm" />
@@ -73,20 +65,12 @@
           <HelpTOCNode Title="ToastXml Property " Url="html/P_DesktopToast_ToastRequest_ToastXml.htm" />
           <HelpTOCNode Title="WaitingDuration Property " Url="html/P_DesktopToast_ToastRequest_WaitingDuration.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e56e38dc-a593-49be-bd16-f3ac8ca5553f" Title="ToastRequest Methods" Url="html/Methods_T_DesktopToast_ToastRequest.htm">
+        <HelpTOCNode Id="42ae60f7-834f-4eee-bde6-2781aae8b439" Title="ToastRequest Methods" Url="html/Methods_T_DesktopToast_ToastRequest.htm">
           <HelpTOCNode Title="FromJsonString Method " Url="html/M_DesktopToast_ToastRequest_FromJsonString.htm" />
           <HelpTOCNode Title="ToJsonString Method " Url="html/M_DesktopToast_ToastRequest_ToJsonString.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="ToastResult Enumeration" Url="html/T_DesktopToast_ToastResult.htm" />
-    </HelpTOCNode>
-    <HelpTOCNode Id="510a8f12-5374-4de0-b060-865545693291" Title="DesktopToast.Logging" Url="html/N_DesktopToast_Logging.htm">
-      <HelpTOCNode Id="0e6a87d7-6502-4741-8b4a-c4d6aadbb8c7" Title="NullLogger Class" Url="html/T_DesktopToast_Logging_NullLogger.htm">
-        <HelpTOCNode Title="NullLogger Methods" Url="html/Methods_T_DesktopToast_Logging_NullLogger.htm" />
-        <HelpTOCNode Id="aa1fcb8b-e869-4e1d-bb92-9e3d953b97dd" Title="NullLogger Fields" Url="html/Fields_T_DesktopToast_Logging_NullLogger.htm">
-          <HelpTOCNode Title="Instance Field" Url="html/F_DesktopToast_Logging_NullLogger_Instance.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
 </HelpTOC>
